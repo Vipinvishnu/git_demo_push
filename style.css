@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 100px;
+}
+p{
+    color:rgb(212, 0, 255);
+    font-size: 30px;
+    font-style: italic;
+   
+}
+body{
+    background-color: black;
+}
+hr{
+    border: 10px solid red;
+    border-radius: 30px;
+}
+img{
+    height: 300px;
+    width: 300px;
+    margin-left: 300px;
+}
